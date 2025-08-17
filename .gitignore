@@ -1,0 +1,34 @@
+# Compiled class files
+*.class
+
+# Maven build output
+/target/
+
+# Gradle build output
+/build/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.vscode/
+
+# Log files
+*.log
+logs/
+
+# Temporary and backup files
+*.tmp
+*.bak
+*~
+
+# Dependency caches
+.gradle/
+.m2/
+
+# Environment variables (if applicable)
+.env
